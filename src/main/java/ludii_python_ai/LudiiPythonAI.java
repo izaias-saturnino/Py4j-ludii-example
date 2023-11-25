@@ -11,6 +11,7 @@ import py4j.GatewayServer;
  * Example Java wrapper for a Ludii AI implemented in Python
  *
  * @author Dennis Soemers
+ * modified by Izaias
  */
 
 public class LudiiPythonAI extends AI

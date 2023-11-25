@@ -12,6 +12,7 @@ import other.GameLoader;
  * the example AIs from this project such that they are available inside the GUI.
  *
  * @author Dennis Soemers
+ * modified by Izaias
  */
 public class LaunchLudii
 {
